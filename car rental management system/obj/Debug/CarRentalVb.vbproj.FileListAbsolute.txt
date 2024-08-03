@@ -1,0 +1,69 @@
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe.config
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.pdb
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.xml
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MySql.Data.dll
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MySql.Data.xml
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.AssemblyReference.cache
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Cars.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.admin.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Resources.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Splash.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.GenerateResource.cache
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.CoreCompileInputs.cache
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.CopyComplete
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.exe
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.xml
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.pdb
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.customers.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Dashboard.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.RentedCars.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.ReturnCars.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe.config
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.pdb
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.xml
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.AssemblyReference.cache
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Cars.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.admin.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.customers.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Dashboard.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Resources.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.RentedCars.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.ReturnCars.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Splash.resources
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.GenerateResource.cache
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.CoreCompileInputs.cache
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.exe
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.xml
+C:\Users\Apdirizak kudun\Downloads\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.pdb
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe.config
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.pdb
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.xml
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.AssemblyReference.cache
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Cars.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.admin.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.customers.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Dashboard.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Resources.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.RentedCars.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.ReturnCars.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Splash.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.GenerateResource.cache
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.CoreCompileInputs.cache
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.exe
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.xml
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.pdb
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.AssemblyReference.cache
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Cars.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.admin.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.customers.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Dashboard.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.RentedCars.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.ReturnCars.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Splash.resources
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\CarRentalVb.vbproj.GenerateResource.cache
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.exe
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.xml
+C:\Users\Apdirizak kudun\Desktop\Eelo university\Sophomore\SEMESTER TWO\visual basic\car rental management system\car rental management system\MiniStudPro\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.pdb

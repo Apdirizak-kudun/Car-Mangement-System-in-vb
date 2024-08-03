@@ -1,0 +1,17 @@
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe.config
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.exe
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.pdb
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MiniStudPro.xml
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MySql.Data.dll
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\bin\Debug\MySql.Data.xml
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.vbproj.AssemblyReference.cache
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Form1.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Form2.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Resources.resources
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.vbproj.GenerateResource.cache
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.vbproj.CoreCompileInputs.cache
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.vbproj.CopyComplete
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.exe
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.xml
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.pdb
+D:\EELO UNIVERSITY\Faculty Classes\2. Sophomore\Semester Two\Visual Basic\MiniStudPro\MiniStudPro\obj\Debug\MiniStudPro.Form3.resources
