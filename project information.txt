@@ -1,0 +1,11 @@
+**Database Name: Car Rental Management System**
+
+**Developed by apdirisak apdikadir**
+
+**Recommended Visual studio code Version 2019**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
